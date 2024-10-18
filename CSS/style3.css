@@ -184,3 +184,52 @@ header {
 
 /*FOOTER*/
 
+.schedefooter{
+background-color: grey;
+min-height: 900px;
+padding: 20px 90px;
+
+}
+
+.sezionecentrale{
+    padding: 10px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+}
+
+footer p{
+    background-color: aqua;
+    width: 200px;
+    min-height: 650px;
+    border: 1px dashed black;
+}
+
+.sezionecentrale p:first-child{
+    background-color: pink;
+    width: 300px;
+    min-height: 600px;
+    display: flex;
+}
+
+hr{
+    background-color: white;
+}
+
+.footerfooter {
+    background-color: grey;
+
+
+}
+
+.strisciafooter{
+    display: flex;
+    justify-content: space-between;
+}
+
+.strisciafooter div{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
