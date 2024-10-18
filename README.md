@@ -1,4 +1,4 @@
-# Creazione pagina discors pt1
+# Creazione pagina discord pt1
 *Esercizio 18/10/24*
 
 ## Step
